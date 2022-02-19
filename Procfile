@@ -1,1 +1,1 @@
-web: gunicorn app:app --log-file=-
+web: gunicorn deepfake_flask_duro:app --log-file=-
